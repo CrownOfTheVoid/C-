@@ -13,14 +13,14 @@
   4.Git-Hub Objeto de pesquisa (**Versionamento**)<br>
   5.Logica de Programação<br>
   6.Orientação ao objeto<br>
-  7. Frameworks (Javascript, Angular,React e Ve.js)<br>
+  7.Frameworks(Javascript, Angular,React e Ve.js)<br>
   8.Linguagem C# (basico,intermediario e avançado)<br>
   9.Linguagem C# Banco de dados (ADO.NET e Enity Framework)<br>
   10.Programção Rad (Windows Form) utilizando EntiyFramework - Database First<br>
   11.ASP.NET MVC - Entiy Framework - Cod First <br>
   12.ASP NET WEB API - Integração de sistema <br>
-  13. Integração Desktop, web mobile<br>
-  14. Instalador Inno Setup<br>
+  13.Integração Desktop, web mobile<br>
+  14.Instalador Inno Setup<br>
   15.Configuração e Hospodagem Nuvem<br>
   16.Teste de Software (Unitario)<br>
   17.Documentação UML do Projeto Final<br>
